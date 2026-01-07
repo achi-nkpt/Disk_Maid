@@ -1,5 +1,5 @@
 # Disk_Maid
 A simple rust Iced Gui Program to scan your Disk  
-Version: 1.0  
-Platform: Windows & Linux  
+Version: 2.5  
+Platform: Windows  
 Author: Achirawat Nikropitak
